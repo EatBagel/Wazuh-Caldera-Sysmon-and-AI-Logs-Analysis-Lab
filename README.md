@@ -191,15 +191,29 @@ The third log entry catches the Enumeration on the Windows VM.
 
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/8739e2b1-7a43-4c73-9d7a-087dcb47017d" />
 
-`
+**7. Skills Learned**
+___
+
+Wazuh SIEM Administration
+Sysmon Configuration and Monitoring
+Endpoint Detection and Response (EDR)
+Security Information and Event Management (SIEM)
+Threat Detection and Analysis
+MITRE ATT&CK Framework
+Adversary Emulation
+Incident Response
+Threat Hunting
+Log Analysis
+AI-Assisted Security Analysis
+Security Operations Center (SOC) Workflows
 
 
-**7. Conclusion** 
+**8. Conclusion** 
 ___
 
 This lab was an essential hands-on experience. This training environemnt is authentic in mutliple aspects; threat detection using SIEM tools, adversary simluation with MITRE Caldera, endpoint telemetry with Sysmon, and AI-assisted log triage and analysis. By integrating and using each tool, I was able to gain phsyical and pratcial experince with SOC techniques commonly used throughout the workforce.
 
-**8. Acknowledgments**
+**9. Acknowledgments**
 ___
 
 A sincere thank you to the Panther NSO Club for the support, collaboration, and shared passion for cybersecurity that made this project possible. This lab wouldn't exist without the community you've built.
