@@ -187,7 +187,7 @@ Afterwards, I implemented a shell script to feed the AI the prompt to parse and 
 
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/3d61dff9-24a0-4e4d-9780-6a14348eb0a3" />
 
-The 3rd log enttry catches the Enumeration on the Windows VM. 
+The third log entry catches the Enumeration on the Windows VM. 
 
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/8739e2b1-7a43-4c73-9d7a-087dcb47017d" />
 
