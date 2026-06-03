@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/MITRE%20Caldera-5.x-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Sysmon-15.x-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/AI%20Powered-LLM%20Triage-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/youruser/soc-homelab?style=flat-square" />
 </p>
 
