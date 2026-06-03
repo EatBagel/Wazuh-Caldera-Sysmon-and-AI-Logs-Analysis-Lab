@@ -183,7 +183,7 @@ Then, run the LLM tailored to triaging logs.
 
 <img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/803c20e7-6a9d-4d70-b08d-39c543d5f5a9" />
 
-Afterwards, I implemented a shell script to feed the AI the prompt to parse and explain each log.
+Afterwards, I implemented a shell script to feed the AI the prompt to parse and triage each log.
 
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/3d61dff9-24a0-4e4d-9780-6a14348eb0a3" />
 
