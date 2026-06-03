@@ -193,7 +193,7 @@ The third log entry catches the Enumeration on the Windows VM.
 
 **7. Skills Learned**
 ___
-
+```
 Wazuh SIEM Administration
 Sysmon Configuration and Monitoring
 Endpoint Detection and Response (EDR)
@@ -206,7 +206,7 @@ Threat Hunting
 Log Analysis
 AI-Assisted Security Analysis
 Security Operations Center (SOC) Workflows
-
+```
 
 **8. Conclusion** 
 ___
