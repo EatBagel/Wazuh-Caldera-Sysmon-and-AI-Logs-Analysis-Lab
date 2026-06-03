@@ -89,7 +89,7 @@ Kali Linux (Attacker Machine)
 ```
 **6. Installation & Setup**
 
-This section provided shows the steps done to complete the project.
+The section provided shows the steps done to complete the project.
 
 _6.1 Step 1:_ Create and Load the Virtual Machines in VMware
 
